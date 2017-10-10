@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1037957875266",
+    "firebase_url": "https://agendapadiatrica.firebaseio.com",
+    "project_id": "agendapadiatrica",
+    "storage_bucket": "agendapadiatrica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037957875266:android:27db728c7effcdfd",
+        "android_client_info": {
+          "package_name": "com.fpuna.moios.agendapediatrica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037957875266-hvdusii8ic7ihfjn95j5e33vkkrm8noo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fpuna.moios.agendapediatrica",
+            "certificate_hash": "cbcf26123c9a8c372b19abd3cd750663d9644bc3"
+          }
+        },
+        {
+          "client_id": "1037957875266-3kcandfk6nt9io4mncqj27hoskbovojc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KnU5jdffQbKziAzz795XoMhhG0_jyGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037957875266-0h3r9hass81h72374svstih6qcfkmtlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fpuna.moios.agendapediatrica",
+                "app_store_id": "123456789"
+              }
+            },
+            {
+              "client_id": "1037957875266-3kcandfk6nt9io4mncqj27hoskbovojc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
